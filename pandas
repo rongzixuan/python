@@ -1,1 +1,3 @@
-1、read_csv中的参数index_col = 0，表示读入数据时没有虚拟的index列，而读入数据的第一列会变成index
+1、read_csv函数
+（1）read_csv中的参数 index_col = 0，表示读入数据时没有虚拟的index列，而读入数据的第一列会变成index。
+（2）read_csv中的参数 header = None，表示读入的数据没有表头，而如果真实数据有表头，则作为读入数据的第一行。
