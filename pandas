@@ -1,0 +1,1 @@
+1、read_csv中的参数index_col = 0，表示读入数据时没有虚拟的index列
